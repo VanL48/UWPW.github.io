@@ -6,30 +6,17 @@ background-color: #D0F0EA;
 
 /* 頁面標題設定 */
 
-	
+    
 
 /* 連結顏色設定 */
 
 
-	
+    
 /* area1 header */
-	
-	
-	header {
-		font-size:15px; position: fixed;
-		top:0; left:0; right: 0;
-		index: 80;
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		padding: 5px;
-		background-color: #428174;
-		opacity: 0.9;
-	}
 
-	header img{
-		width:75px; height:75px; padding-bottom:-10px; filter: saturate (8);
-	}
+a {font-size: 100px}
+    
+    
 
 
 /* area2 作者前言 */
@@ -40,7 +27,7 @@ h2{
 font-size: 100px
 }
 body{
-background-color: #D0F0EA;
+background-color: #f0000;
 }
 
 
