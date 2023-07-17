@@ -22,7 +22,7 @@ a {font-size: 100px}
 /* area2 作者前言 */
 
 /* area3 內文 */
-
+p { word-warp:break-word; }
 h2{
 font-size: 100px
 }
