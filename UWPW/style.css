@@ -8,7 +8,7 @@
 
 
 body{
-background-color: #D0F0EA;
+background-color: #e8dbc8;
 }
 /* 頁面標題設定 */
 
@@ -16,7 +16,7 @@ background-color: #D0F0EA;
 	/* 連結顏色設定 */
 
 a {
-	color:#df4839
+	color:#ff6738
 	}
 
 a:	a:hover{
@@ -27,7 +27,7 @@ a:	a:hover{
 	/* area1 header */
 	
 	h1 {
-	color: #FFFFFF;
+	color: #000000;
 	}
 	
 	header {
@@ -37,13 +37,13 @@ a:	a:hover{
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 5px;
-		background-color: #428174;
+		padding: 15px;
+		background-color: #a9cad6;
 		opacity: 0.9;
 	}
 
 	header img{
-		width:75px; height:75px; padding-bottom:-10px; filter: saturate (8);
+		width:100px; height:100px; padding-bottom:-10px; filter: saturate (8);
 	}
 
 
@@ -55,7 +55,7 @@ h2{
 font-size: 30px
 }
 body{
-background-color: #D0F0EA;
+background-color: #ded8d1;
 }
 
 
