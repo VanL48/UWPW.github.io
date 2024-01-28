@@ -1,28 +1,25 @@
 /* 版面設定 */
 
 body{
-background-color: #D0F0EA;
+background-color: #e8dbc8;
 }
 
 /* 頁面標題設定 */
 
-    
+	
 
 /* 連結顏色設定 */
 
 
-    
+	
 /* area1 header */
 
 a {font-size: 100px}
-    
-    
-
 
 /* area2 作者前言 */
 
 /* area3 內文 */
-p { word-warp:break-word; }
+
 h2{
 font-size: 100px
 }
