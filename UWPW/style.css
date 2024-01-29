@@ -36,18 +36,21 @@ a:	a:hover{
 		index: 80;
 		display: flex;
 		justify-content: space-between;
-		align-items: center;
+		align-items: left;
 		padding: 15px;
 		background-color: #a9cad6;
 		opacity: 0.9;
 	}
 
 	header img{
-		width:100px; height:100px; padding-bottom:-10px; filter: saturate (8);
+		width:100px; height:100px; 
+		padding-bottom:-10px; 
+		filter: saturate (8);
 	}
 
 
 /* area2 */
+  
 
 /* area3 chapter */
 
