@@ -1,7 +1,7 @@
 /* 版面設定 */
 
 body{
-background-color: #e8dbc8;
+background-color: #ded8d1;
 }
 
 /* 頁面標題設定 */
@@ -14,14 +14,14 @@ background-color: #e8dbc8;
 	
 /* area1 header */
 
-a {font-size: 100px}
+a {font-size: 50px}
 
 /* area2 作者前言 */
 
 /* area3 內文 */
 
 h2{
-font-size: 100px
+font-size: 50px
 }
 body{
 background-color: #f0000;
