@@ -32,19 +32,19 @@ background-color: #body{
 		}
 		
 		header {
-			font-size:30px; position: fixed;
+			font-size:20px; position: fixed;
 			top:0; left:0; right: 0;
 			index: 80;
 			display: flex;
 			justify-content: space-between;
 			align-items: left;
-			padding: 40px;
+			padding: 30px;
 			background-color: #d2c8eb;
 			opacity: 0.9;
 		}
 	
 		header img{
-			width:150px; height:150px; 
+			width:100px; height:100px; 
 			padding-bottom:-10px; 
 			filter: saturate (8);
 		}
