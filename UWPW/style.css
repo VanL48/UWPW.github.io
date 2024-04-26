@@ -32,13 +32,13 @@ background-color: #body{
 		}
 		
 		header {
-			font-size:15px; position: fixed;
+			font-size:10px; position: fixed;
 			top:0; left:0; right: 0;
 			index: 80;
 			display: flex;
 			justify-content: space-between;
 			align-items: left;
-			padding: 25px;
+			padding: 15px;
 			background-color: #d2c8eb;
 			opacity: 0.9;
 		}
