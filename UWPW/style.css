@@ -1,13 +1,10 @@
 @charset "utf-8";
 
-}
-
 
 
 /* 版面設定 */
 
 
-body{
 background-color: #body{
 	background-color: #000;
 	}
@@ -20,9 +17,9 @@ background-color: #body{
 		color:#496fd8
 		}
 	
-	a:	a:hover{
+	a:hover{
 		color: #df4839
-		text-decoration: none;
+	 text-decoration: none;
 		}
 		
 		/* area1 header */
@@ -32,61 +29,22 @@ background-color: #body{
 		}
 		
 		header {
-			font-size:10px; position: fixed;
+			font-size:20px; position: fixed;
 			top:0; left:0; right: 0;
 			index: 80;
 			display: flex;
 			justify-content: space-between;
 			align-items: left;
-			padding: 15px;
+			padding: 25px;
 			background-color: #d2c8eb;
 			opacity: 0.9;
 		}
 	
 		header img{
-			width:70px; height:70px; 
+			width:100px; height:100px; 
 			padding-bottom:-10px; 
 			filter: saturate (8);
 		}
-	;
-}
-/* 頁面標題設定 */
-
-	
-	/* 連結顏色設定 */
-
-a {
-	color:#496fd8
-	}
-
-a:	a:hover{
-	color: #df4839
-	text-decoration: none;
-	}
-	
-	/* area1 header */
-	
-	h1 {
-	color: #000000;
-	}
-	
-	header {
-		font-size:30px; position: fixed;
-		top:0; left:0; right: 0;
-		index: 80;
-		display: flex;
-		justify-content: space-between;
-		align-items: left;
-		padding: 40px;
-		background-color: #d2c8eb;
-		opacity: 0.9;
-	}
-
-	header img{
-		width:150px; height:150px; 
-		padding-bottom:-10px; 
-		filter: saturate (8);
-	}
 
 
 /* area2 */
